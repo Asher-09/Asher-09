@@ -7,8 +7,6 @@
 
 - 👯 SelfBots for Automation [Self-Bot](https://github.com/Asher-09/SelfBot)
 
-- 👨‍💻 Find more about me in [pratish09.com.np](pratish09.com.np)
-
 - 📫 How to reach me **ashfordasher09@gmail.com**
 
 - ⚡ Fun fact **I am a great group leader.**
